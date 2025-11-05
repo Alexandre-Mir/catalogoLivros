@@ -1,0 +1,39 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "O Senhor dos Anéis",
+      "paginas": 1216,
+      "genero": "Fantasia",
+      "descricao": "Uma épica aventura na Terra Média."
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "paginas": 328,
+      "genero": "Distopia",
+      "descricao": "Uma visão sombria de um futuro totalitário."
+    },
+    {
+      "id": 3,
+      "titulo": "Dom Quixote",
+      "paginas": 863,
+      "genero": "Clássico",
+      "descricao": "As aventuras do cavaleiro andante Dom Quixote."
+    },
+    {
+      "id": 4,
+      "titulo": "O Pequeno Príncipe",
+      "paginas": 96,
+      "genero": "Infantil",
+      "descricao": "Uma fábula poética sobre a vida e a amizade."
+    },
+    {
+      "id": 5,
+      "titulo": "A Guerra dos Tronos",
+      "paginas": 694,
+      "genero": "Fantasia",
+      "descricao": "Intrigas e batalhas pelo trono de Westeros."
+    }
+  ]
+}
